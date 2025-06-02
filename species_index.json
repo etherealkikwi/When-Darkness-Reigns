@@ -1,0 +1,22 @@
+{
+  "species": [
+    {
+      "name": "Vampire",
+      "icon": "ph-drop",
+      "hex": "#8B0000",
+      "description": "Elegant and deadly beings who thrive in the magical dark of Anchorage."
+    },
+    {
+      "name": "Faerie",
+      "icon": "ph-sparkle",
+      "hex": "#FF69B4",
+      "description": "Enchanted tricksters from the hidden courts beyond the veil."
+    },
+    {
+      "name": "Shifter",
+      "icon": "ph-paw-print",
+      "hex": "#556B2F",
+      "description": "Wild souls with beastly forms and ancient instincts."
+    }
+  ]
+}
