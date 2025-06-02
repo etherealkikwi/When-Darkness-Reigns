@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "name": "AthanasiA",
+      "avatar": "https://i.imgur.com/sampleavatar1.png",
+      "group": "Vampires",
+      "icon": "ph-moon-stars",
+      "posts": 145
+    },
+    {
+      "name": "Tina",
+      "avatar": "https://i.imgur.com/sampleavatar2.png",
+      "group": "Witches",
+      "icon": "ph-star-four",
+      "posts": 210
+    },
+    {
+      "name": "Marina",
+      "avatar": "https://i.imgur.com/sampleavatar3.png",
+      "group": "Mermaids",
+      "icon": "ph-wave-sawtooth",
+      "posts": 98
+    }
+  ]
+}
