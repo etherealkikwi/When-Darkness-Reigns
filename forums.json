@@ -1,0 +1,26 @@
+{
+    "forums": [
+        {
+            "id": 1,
+            "title": "Announcements",
+            "description": "Important news and updates",
+            "icon": "ph-speaker-high",
+            "last_post": {
+                "user": "Admin",
+                "timestamp": "2025-06-01T15:00:00Z",
+                "thread": "Welcome to When Darkness Reigns"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Character Creation",
+            "description": "Submit your character applications here",
+            "icon": "ph-user-plus",
+            "last_post": {
+                "user": "Julian Voss",
+                "timestamp": "2025-06-01T16:30:00Z",
+                "thread": "Julian Voss [APPROVED]"
+            }
+        }
+    ]
+}

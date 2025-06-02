@@ -1,0 +1,18 @@
+{
+    "posts": [
+        {
+            "id": 101,
+            "user": "Clara Winslow",
+            "avatar": "https://example.com/avatars/clara.png",
+            "timestamp": "2025-06-01T14:45:00Z",
+            "content": "The night fell fast, and the streets were unusually silent."
+        },
+        {
+            "id": 102,
+            "user": "Julian Voss",
+            "avatar": "https://example.com/avatars/julian.png",
+            "timestamp": "2025-06-01T14:50:00Z",
+            "content": "I could sense something was wrong. The shadows felt... heavier."
+        }
+    ]
+}

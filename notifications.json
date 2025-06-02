@@ -1,0 +1,16 @@
+{
+    "notifications": [
+        {
+            "type": "mention",
+            "user": "Tina",
+            "message": "You were mentioned by Julian in 'Downtown Shadows'.",
+            "link": "https://darknessreign.jcink.net/index.php?showtopic=5"
+        },
+        {
+            "type": "tag",
+            "user": "Admin",
+            "message": "You were tagged for a plot update in '#comm-tags'.",
+            "link": "https://discord.com/channels/..."
+        }
+    ]
+}
